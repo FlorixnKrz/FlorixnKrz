@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FlorixnKrz
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning PHP, JS
