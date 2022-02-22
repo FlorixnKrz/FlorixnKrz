@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @FlorixnKrz
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning PHP, JS
+- 🌱 I’m currently learning JS, Node.js
+- 🌱 I already know HTML, CSS, PHP
